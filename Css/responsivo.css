@@ -1,0 +1,47 @@
+@media screen and (min-width: 1000px){
+
+    body{
+        background-image: url(../Image/fundo1.jpg);
+        background-size:  100%; 
+        
+    }
+    .menu img{
+        width: 40px;
+        margin-left: 50px;
+    }
+    .menu{
+        width: 100%;
+        background: black;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        float: right;
+        margin-left: 10px;
+        margin-top: 8px;
+        font-size: 20px;
+        
+    }    
+    form fieldset{
+        width: 30%;
+        background: rgba(117, 115, 109,0.3);
+        color:040221;
+        text-align: center;
+        margin-top: 150px;
+        margin-left: 450px;
+        font-size: 20px;
+        border-radius: 10px;
+        display: inline-block;
+    }
+    footer h1{
+        margin-top: 130px;
+        font-size: 25px;
+        color: #000;
+        float: right;
+        margin-right: 10px;
+        -webkit-text-stroke-width: 0.5px;
+        -webkit-text-stroke-color:  #eeedf5;
+    }
+    
+    
+}
